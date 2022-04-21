@@ -1,0 +1,17 @@
+img{
+    width: 100px;
+}
+
+.flex-container{
+    display: flex;
+}
+
+.header-div{
+    background-color: yellow;
+}
+
+h1 {
+    padding: 10px;
+    color: green;
+}
+
